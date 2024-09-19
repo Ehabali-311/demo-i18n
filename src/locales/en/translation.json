@@ -1,0 +1,9 @@
+{
+    "navbar": { "home": "Home", "about": "About Us", "contact": "Contact Us" },
+    "home": {
+        "title": "Welcome to Our Website",
+        "description": "This is the home page."
+      },
+    "about": { "title": "About Us" },
+    "contact": { "title": "Contact Us" }
+}  
